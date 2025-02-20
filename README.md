@@ -2,4 +2,4 @@
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGreatPintoJ&show_icons=true&theme=transparent&hide_border=true)](https://github.com/TheGreatPintoJ)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub&show_icons=true&theme=transparent&hide_border=true&layout=compact)](https://github.com/TheGreatPintoJ)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=github&show_icons=true&theme=transparent&hide_border=true&layout=compact)](https://github.com/TheGreatPintoJ)
