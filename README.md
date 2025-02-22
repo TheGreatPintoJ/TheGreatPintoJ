@@ -5,7 +5,7 @@ I am a coder who loves creating simple scripts to automate tasks, as well as mod
 I have been learning and practicing in offensive cybersecurity, with a goal to be certified in newtwork penetration testing.
 
 Languages I ~~know~~ (that would be a strong word) am familiar with
-Languages
+Languages     |             
 ------------- | -------------
 Arduino       | C++
 Java          | HTML (JS, CSS)
