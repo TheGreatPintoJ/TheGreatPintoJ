@@ -6,7 +6,7 @@ I have been learning and practicing in offensive cybersecurity, with a goal to b
 
 Languages I ~~know~~ (that would be a strong word) am familiar with
 
-Languages     |             
+Languages     | Languages
 ------------- | -------------
 Arduino       | C++
 Java          | HTML (JS, CSS)
