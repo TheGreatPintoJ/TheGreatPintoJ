@@ -2,7 +2,7 @@
 
 I am a coder who loves creating simple scripts to automate tasks, as well as modding videogames. 
 
-I have been learning and practicing in offensive cybersecurity, with a goal to be certified in newtwork penetration testing.
+I have been learning and practicing in offensive cybersecurity, with a goal to be certified in network penetration testing.
 
 Languages I am familiar with
 
