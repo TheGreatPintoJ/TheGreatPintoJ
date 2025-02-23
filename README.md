@@ -10,7 +10,7 @@ Language      | Language
 ------------- | -------------
 Arduino       | C++
 Java          | HTML (JS, CSS)
-Shell         | 
+Shell         |  
 
 I am also quite proficient in the Linux terminal
 
