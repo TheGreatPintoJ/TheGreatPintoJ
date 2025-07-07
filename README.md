@@ -16,3 +16,4 @@ I am also quite proficient in the Linux terminal
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGreatPintoJ&show_icons=true&theme=transparent&hide_border=true)](https://github.com/TheGreatPintoJ)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatPintoJ&show_icons=true&theme=transparent&hide_border=true&layout=compact)](https://github.com/TheGreatPintoJ)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PintoJ&show_icons=true&theme=transparent&hide_border=true&layout=compact)](https://wakatime.com/@PintoJ)
