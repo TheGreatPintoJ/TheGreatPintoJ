@@ -8,7 +8,7 @@ Languages I am familiar with
 
 Language      | Language
 ------------- | -------------
-Arduino       | C++
+Arduino       | C++, C#
 Java          | HTML (JS, CSS)
 Shell         |  
 
